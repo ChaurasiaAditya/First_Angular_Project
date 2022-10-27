@@ -9,6 +9,6 @@ import { menu } from './Model/menuDetails'
 export class AppComponent {
   title = 'First_Angular_Project';
 
-  // menus = menu;
+  menus = menu;
 
 }
