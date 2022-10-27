@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { menu } from './Model/menuDetails'
 
 @Component({
   selector: 'app-root',
@@ -8,5 +9,6 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'First_Angular_Project';
 
-  
+  // menus = menu;
+
 }
